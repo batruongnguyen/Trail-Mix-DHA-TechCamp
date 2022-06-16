@@ -12,6 +12,11 @@ Create a Custom User profile in your Trailhead Playground and give it View All p
 - Write a positive permission unit test showing that users with the - Custom User profile can access Private_Object__c records that they do not own
 - Execute your unit tests and ensure that they all pass
 
+### **How to create a Custom User profile in your Trailhead Playground**
+1. From Setup enter `User Management Settings` in the *Quick Find* box, and select *User Management Settings*.
+2. Find Custom User (Ctril F and type **Custom User**)
+3. Find Private Object (Ctril F and type **Private Object**)
+6. Click to `View All`
 ### Test Class
 *PositivePermission_tests.apxc*
 ```java
